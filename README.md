@@ -34,22 +34,21 @@ The system integrates multiple sensors with an ESP32 device to monitor environme
 
 ### Main Dashboard
 
-![Main Dashboard](<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/cfd8fda7-8251-45ed-a523-4bc79e21cc94" />
-)
+![Main Dashboard](./img/mainpage.png)
 
 ### Environmental Monitoring
 
-![Environmental Monitoring](./images/dashboard-environment.png)
+![Environmental Monitoring](./img/q1.png)
 
 ### Sensor Details & Alarms
 
-![Sensor Dashboard](./images/dashboard-sensor.png)
+![Sensor Dashboard](./img/benthanh.png)
 
 ### Parking Dashboard
 
-![Parking Dashboard](./images/dashboard-parking.png)
+![Parking Dashboard](./img/carpark.png)
 
 ## Demo
 
-🎥 **Project Demo:** [Watch Demo](YOUR_DEMO_LINK)
+🎥 **Project Demo:** [Watch Demo](https://www.youtube.com/watch?v=kwJrfP_ZU7A)
 
